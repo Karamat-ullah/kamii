@@ -1,0 +1,2 @@
+# kamii
+kami new repository
